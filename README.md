@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Batoul 👋
 
-<!--
-**Batouls1/Batouls1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer focused on LLM agents, RAG systems, and deploying AI applications. Physics background. Currently looking for **junior AI engineering roles**.
 
-Here are some ideas to get you started:
+**Highlights:**
+- 🗓️ Built and deployed a LangGraph + FastAPI calendar agent powered by GPT-4o that manages Google Calendar via natural language — Dockerized, live on AWS EC2, 53 tests
+- ⚖️ Built a bilingual RAG assistant for Lebanese labour law — hybrid FAISS+BM25 retrieval, evaluated with MRR/Precision@K against 60 hand-annotated questions
+- 🌍 Native Arabic/English — building for the MENA market, not just translating for it
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** LangGraph · LangChain · Python . FastAPI · Docker · AWS · FAISS . TensorFlow
+
+**Currently:** deploying my RAG project on Render, and exploring multi-agent systems for a third project.
+
+📫 [LinkedIn](https://linkedin.com/in/batoul-moussawi)
