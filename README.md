@@ -1,5 +1,3 @@
-# Hi, I'm Batoul 👋
-
 AI Engineer focused on LLM agents, RAG systems, and deploying AI applications. Physics background. Currently looking for **junior AI engineering roles**.
 
 **Highlights:**
